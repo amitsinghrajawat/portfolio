@@ -8,7 +8,7 @@ html {
   --image-gradient: linear-gradient(
     to bottom left,
     rgba(17, 16, 16, 0.678),
-    rgba(12, 10, 22, 0.863)
+    rgba(10, 19, 22, 0.863)
   );
 
   /* --imp-text-color: #c770f0; */
@@ -33,7 +33,7 @@ button:focus {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #0c0513;
+  background-color: #051013;
   background-image: url(./Assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -77,9 +77,9 @@ button:focus {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: #1b1a2ea9 !important;
+  background-color: #1a2d2ea9 !important;
   transition: all 0.3s ease-out 0s !important;
-  box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
+  box-shadow: 0px 10px 10px 0px rgba(4, 11, 22, 0.171) !important;
   backdrop-filter: blur(15px) !important;
 }
 
@@ -403,7 +403,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(4, 11, 22);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
@@ -561,7 +561,7 @@ button:focus {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(4, 111, 168, 0.137) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
