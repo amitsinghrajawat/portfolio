@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/amitsinghrajawat"
+                href="https://x.com/AmitsinghR80095"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/amitsinghrajawat/"
+                href="https://www.linkedin.com/in/amit-singh-rajawat-7951411a4/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/amitsinghrajawat"
+                href="https://www.instagram.com/__amit__singh__rajawat____/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
